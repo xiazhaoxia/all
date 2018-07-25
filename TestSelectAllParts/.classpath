@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/javax.json.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/ksoap2-j2me-core-2.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/kxml2-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/maf.embedded.amx.api.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/maf.embedded.amx.impl.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/maf.embedded.api.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/maf.embedded.cdm.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/maf.embedded.framework.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/maf.j2me.connections.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/maf.java.common.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/maf.java.shared.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/maf.juel.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/sqlite.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/wsm-agent-common.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/wsm-common.jar"/>
+	<classpathentry kind="lib" path="D:/Project/SiebelDevBuild/android crash issue/wsm-common-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suxia.ORADEV/AndroidStudioProjects/localstorage/app/libs/sqlite-jdbc-3.23.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
